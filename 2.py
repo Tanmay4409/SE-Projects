@@ -1,4 +1,5 @@
 b=23
 c=44
-d=b+c
+a=23
+d=a+b+c
 print d
